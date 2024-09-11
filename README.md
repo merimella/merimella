@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @merimella
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in beets, bears, battlestar galactica
+- 🌱 I’m currently learning react.js and vue.js
 - 📫 How to reach me mtecirillo@gmail.com
 
 <!---
